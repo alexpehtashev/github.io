@@ -1,0 +1,55 @@
+main>p {
+    color: black;
+    font-size: 25px;
+    border: 15px;
+    background: #3333;
+}
+
+p {
+    color: gold;
+    font-size: 15px;
+    border: 1px;
+    background: #3388;
+}
+
+nav {
+    color: mediumblue;
+    font-size: 20px;
+    text-align: center;
+    animation: alternate;
+}
+
+main>h1 {
+    color: brown;
+    border: 1px dotted black;
+}
+
+div {
+    width: 500px;
+    height: 500px;
+
+    background: #333333;
+}
+
+#main {
+    color: white;
+    width: 750px;
+}
+
+.text-white {
+    color: white;
+}
+
+.alert {
+    height: 350px;
+    color: gray;
+}
+
+div {
+    background: blue;
+}
+
+.alert-warning {
+    background: #000000;
+    color: yellow;
+}
